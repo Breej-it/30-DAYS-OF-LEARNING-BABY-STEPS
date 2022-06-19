@@ -1,4 +1,4 @@
-# Project Name: DOL-Baby-Step
+# Project Name: 30 DAYS OF LEARNING -Baby-Steps
 
 ....
 # Project Objective: Problem Statement
